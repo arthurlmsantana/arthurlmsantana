@@ -1,8 +1,18 @@
-- 👋 Hi, I’m @arthurlmsantana
-- 👀 I’m interested in data analytics, data science and statistics
-- 🌱 I’m currently learning python for data science.
-- 💞️ I’m looking to collaborate on data science projects.
-- 📫 How to reach me: arthurmaxado@yahoo.com.br or my Linkedin: https://www.linkedin.com/in/arthur-santana-68167994/
+Welcome to my GitHub profile!
+
+👀 Interests
+I have a strong passion for data analytics, data science, and statistics. I enjoy diving into data to extract meaningful insights and make data-driven decisions.
+
+🌱 Current Learning
+I'm currently enhancing my skills in data science, analytics and visualization.
+
+💞️ Collaboration
+I'm eager to collaborate on data science/analytics projects that involve complex problem-solving, data modeling, and statistical analysis. If you have an exciting project or idea, feel free to reach out!
+
+📫 Contact Me
+Email: arthurmaxado@yahoo.com.br
+LinkedIn: Arthur Santana
+
 
 <!---
 arthurlmsantana/arthurlmsantana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
