@@ -11,7 +11,7 @@ I'm eager to collaborate on data science/analytics projects that involve complex
 
 📫 Contact Me
 Email: arthurmaxado@yahoo.com.br
-LinkedIn: Arthur Santana
+LinkedIn: https://www.linkedin.com/in/arthur-santana-68167994/
 
 
 <!---
