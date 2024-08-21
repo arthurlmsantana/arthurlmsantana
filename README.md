@@ -1,15 +1,15 @@
 Welcome to my GitHub profile!
 
-👀 Interests
+👀 Interests: 
 I have a strong passion for data analytics, data science, and statistics. I enjoy diving into data to extract meaningful insights and make data-driven decisions.
 
-🌱 Current Learning
+🌱 Current Learning: 
 I'm currently enhancing my skills in data science, analytics and visualization.
 
-💞️ Collaboration
+💞️ Collaboration: 
 I'm eager to collaborate on data science/analytics projects that involve complex problem-solving, data modeling, and statistical analysis. If you have an exciting project or idea, feel free to reach out!
 
-📫 Contact Me
+📫 Contact Me: 
 Email: arthurmaxado@yahoo.com.br
 LinkedIn: https://www.linkedin.com/in/arthur-santana-68167994/
 
